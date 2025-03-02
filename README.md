@@ -10,7 +10,5 @@ This project is a **Netflix Clone** built entirely using **HTML and CSS**, witho
 - ✅ **Hover Effects & Transitions** – Adds interactivity without JavaScript  
 - ✅ **Custom Fonts & Icons** – Uses Google Fonts and Font Awesome  
 
-## 📸 Preview  
-
-
 ## 🚀 Getting Started  
+If you'd like to improve this project, feel free to fork the repository, make your changes, and submit a pull request!
